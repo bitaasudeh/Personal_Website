@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website.
+This is my personal portfolio website.This website shows the academic trajectory of Bita Asoodeh.
 
 ## Automatic Deployment
 
